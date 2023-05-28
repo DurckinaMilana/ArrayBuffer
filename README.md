@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/62yhhu0ggta31d1c?svg=true)](https://ci.appveyor.com/project/DurckinaMilana/arraybuffer)
